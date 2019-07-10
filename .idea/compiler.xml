@@ -10,6 +10,7 @@
         <module name="bookshop-admin (1)" />
         <module name="bookshop-admin (2)" />
         <module name="bookshop-api" />
+        <module name="bookshop-common" />
         <module name="bookshop-web" />
         <module name="bookshop-web (1)" />
         <module name="bookshop-web (2)" />
