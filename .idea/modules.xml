@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/bookshop-admin/bookshop-admin.iml" filepath="$PROJECT_DIR$/bookshop-admin/bookshop-admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/bookshop-admin/bookshop-admin (1).iml" filepath="$PROJECT_DIR$/bookshop-admin/bookshop-admin (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/bookshop-admin/bookshop-admin (2).iml" filepath="$PROJECT_DIR$/bookshop-admin/bookshop-admin (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/bookshop-api/bookshop-api.iml" filepath="$PROJECT_DIR$/bookshop-api/bookshop-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookshop-common/bookshop-common.iml" filepath="$PROJECT_DIR$/bookshop-common/bookshop-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookshop-service/bookshop-service.iml" filepath="$PROJECT_DIR$/bookshop-service/bookshop-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookshop-web/bookshop-web.iml" filepath="$PROJECT_DIR$/bookshop-web/bookshop-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/bookshop-web/bookshop-web (1).iml" filepath="$PROJECT_DIR$/bookshop-web/bookshop-web (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/bookshop-web/bookshop-web (2).iml" filepath="$PROJECT_DIR$/bookshop-web/bookshop-web (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/wywhdgg-bookshop.iml" filepath="$PROJECT_DIR$/.idea/wywhdgg-bookshop.iml" />

@@ -6,9 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="bookshop-admin" />
         <module name="bookshop-admin (1)" />
         <module name="bookshop-admin (2)" />
         <module name="bookshop-api" />
+        <module name="bookshop-common" />
+        <module name="bookshop-service" />
+        <module name="bookshop-web" />
         <module name="bookshop-web (1)" />
         <module name="bookshop-web (2)" />
         <module name="wywhdgg-common" />
@@ -20,6 +24,7 @@
       <module name="bookshop-admin (2)" target="1.8" />
       <module name="bookshop-api" target="1.8" />
       <module name="bookshop-common" target="1.8" />
+      <module name="bookshop-service" target="1.8" />
       <module name="bookshop-web" target="1.8" />
       <module name="bookshop-web (1)" target="1.8" />
       <module name="bookshop-web (2)" target="1.8" />
